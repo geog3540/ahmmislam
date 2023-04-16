@@ -1,6 +1,6 @@
 {
   "projectName": "test project",
-  "date": "04/15/2023",
+  "date": "04/16/2023",
   "onlineBaseMapSettings": {
     "baseMap": "osm",
     "projection": "abEqAreaUS",
@@ -12,7 +12,7 @@
     "ifAddProjectionLabel": false,
     "ifUploadReferences": false,
     "description": "Number of families migrated between 1887 and 1924 in the United States",
-    "ifAddDescription": true,
+    "ifAddDescription": false,
     "titleColor": "#000000",
     "titleSize": "30",
     "referenceField": "14",
@@ -16587,7 +16587,8 @@
       "NetflowRatio_1887_1924": "-0.16194528",
       "Degree_1887_1924": "34",
       "InDegree_1887_1924": "31",
-      "OutDegree_1887_1924": "32"
+      "OutDegree_1887_1924": "32",
+      "Percentage_IF": "41.90273615"
     },
     {
       "rootsid": "104",
@@ -16640,7 +16641,8 @@
       "NetflowRatio_1887_1924": "0.14207947",
       "Degree_1887_1924": "35",
       "InDegree_1887_1924": "33",
-      "OutDegree_1887_1924": "27"
+      "OutDegree_1887_1924": "27",
+      "Percentage_IF": "57.10397387"
     },
     {
       "rootsid": "105",
@@ -16693,7 +16695,8 @@
       "NetflowRatio_1887_1924": "-0.12662154",
       "Degree_1887_1924": "40",
       "InDegree_1887_1924": "36",
-      "OutDegree_1887_1924": "38"
+      "OutDegree_1887_1924": "38",
+      "Percentage_IF": "43.66892273"
     },
     {
       "rootsid": "106",
@@ -16746,7 +16749,8 @@
       "NetflowRatio_1887_1924": "0.41479895",
       "Degree_1887_1924": "48",
       "InDegree_1887_1924": "48",
-      "OutDegree_1887_1924": "45"
+      "OutDegree_1887_1924": "45",
+      "Percentage_IF": "70.73994726"
     },
     {
       "rootsid": "107",
@@ -16799,7 +16803,8 @@
       "NetflowRatio_1887_1924": "0.16541289",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "43",
-      "OutDegree_1887_1924": "39"
+      "OutDegree_1887_1924": "39",
+      "Percentage_IF": "58.27064419"
     },
     {
       "rootsid": "109",
@@ -16852,7 +16857,8 @@
       "NetflowRatio_1887_1924": "0.063747585",
       "Degree_1887_1924": "26",
       "InDegree_1887_1924": "21",
-      "OutDegree_1887_1924": "24"
+      "OutDegree_1887_1924": "24",
+      "Percentage_IF": "53.18737927"
     },
     {
       "rootsid": "110",
@@ -16905,7 +16911,8 @@
       "NetflowRatio_1887_1924": "-0.01775148",
       "Degree_1887_1924": "16",
       "InDegree_1887_1924": "13",
-      "OutDegree_1887_1924": "14"
+      "OutDegree_1887_1924": "14",
+      "Percentage_IF": "49.11242604"
     },
     {
       "rootsid": "111",
@@ -16958,7 +16965,8 @@
       "NetflowRatio_1887_1924": "0.002744739",
       "Degree_1887_1924": "28",
       "InDegree_1887_1924": "23",
-      "OutDegree_1887_1924": "24"
+      "OutDegree_1887_1924": "24",
+      "Percentage_IF": "50.13723696"
     },
     {
       "rootsid": "112",
@@ -17011,7 +17019,8 @@
       "NetflowRatio_1887_1924": "0.24666311",
       "Degree_1887_1924": "40",
       "InDegree_1887_1924": "37",
-      "OutDegree_1887_1924": "34"
+      "OutDegree_1887_1924": "34",
+      "Percentage_IF": "62.33315537"
     },
     {
       "rootsid": "113",
@@ -17064,7 +17073,8 @@
       "NetflowRatio_1887_1924": "-0.15543576",
       "Degree_1887_1924": "37",
       "InDegree_1887_1924": "31",
-      "OutDegree_1887_1924": "35"
+      "OutDegree_1887_1924": "35",
+      "Percentage_IF": "42.22821204"
     },
     {
       "rootsid": "116",
@@ -17117,7 +17127,8 @@
       "NetflowRatio_1887_1924": "0.2541222",
       "Degree_1887_1924": "37",
       "InDegree_1887_1924": "37",
-      "OutDegree_1887_1924": "34"
+      "OutDegree_1887_1924": "34",
+      "Percentage_IF": "62.70611057"
     },
     {
       "rootsid": "117",
@@ -17170,7 +17181,8 @@
       "NetflowRatio_1887_1924": "-0.104495645",
       "Degree_1887_1924": "47",
       "InDegree_1887_1924": "46",
-      "OutDegree_1887_1924": "45"
+      "OutDegree_1887_1924": "45",
+      "Percentage_IF": "44.77521788"
     },
     {
       "rootsid": "118",
@@ -17223,7 +17235,8 @@
       "NetflowRatio_1887_1924": "-0.067566775",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "44",
-      "OutDegree_1887_1924": "43"
+      "OutDegree_1887_1924": "43",
+      "Percentage_IF": "46.62166129"
     },
     {
       "rootsid": "119",
@@ -17276,7 +17289,8 @@
       "NetflowRatio_1887_1924": "-0.14463231",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "42",
-      "OutDegree_1887_1924": "43"
+      "OutDegree_1887_1924": "43",
+      "Percentage_IF": "42.76838415"
     },
     {
       "rootsid": "120",
@@ -17329,7 +17343,8 @@
       "NetflowRatio_1887_1924": "-0.124236256",
       "Degree_1887_1924": "46",
       "InDegree_1887_1924": "43",
-      "OutDegree_1887_1924": "45"
+      "OutDegree_1887_1924": "45",
+      "Percentage_IF": "43.78818737"
     },
     {
       "rootsid": "121",
@@ -17382,7 +17397,8 @@
       "NetflowRatio_1887_1924": "-0.21013093",
       "Degree_1887_1924": "40",
       "InDegree_1887_1924": "36",
-      "OutDegree_1887_1924": "39"
+      "OutDegree_1887_1924": "39",
+      "Percentage_IF": "39.49345353"
     },
     {
       "rootsid": "122",
@@ -17435,7 +17451,8 @@
       "NetflowRatio_1887_1924": "0.03175241",
       "Degree_1887_1924": "38",
       "InDegree_1887_1924": "36",
-      "OutDegree_1887_1924": "35"
+      "OutDegree_1887_1924": "35",
+      "Percentage_IF": "51.58762058"
     },
     {
       "rootsid": "123",
@@ -17488,7 +17505,8 @@
       "NetflowRatio_1887_1924": "-0.072937965",
       "Degree_1887_1924": "26",
       "InDegree_1887_1924": "20",
-      "OutDegree_1887_1924": "22"
+      "OutDegree_1887_1924": "22",
+      "Percentage_IF": "46.35310157"
     },
     {
       "rootsid": "124",
@@ -17541,7 +17559,8 @@
       "NetflowRatio_1887_1924": "0.039338842",
       "Degree_1887_1924": "34",
       "InDegree_1887_1924": "29",
-      "OutDegree_1887_1924": "31"
+      "OutDegree_1887_1924": "31",
+      "Percentage_IF": "51.96694215"
     },
     {
       "rootsid": "125",
@@ -17594,7 +17613,8 @@
       "NetflowRatio_1887_1924": "0.03014602",
       "Degree_1887_1924": "35",
       "InDegree_1887_1924": "31",
-      "OutDegree_1887_1924": "31"
+      "OutDegree_1887_1924": "31",
+      "Percentage_IF": "51.50730099"
     },
     {
       "rootsid": "126",
@@ -17647,7 +17667,8 @@
       "NetflowRatio_1887_1924": "0.05622776",
       "Degree_1887_1924": "45",
       "InDegree_1887_1924": "45",
-      "OutDegree_1887_1924": "42"
+      "OutDegree_1887_1924": "42",
+      "Percentage_IF": "52.8113879"
     },
     {
       "rootsid": "127",
@@ -17700,7 +17721,8 @@
       "NetflowRatio_1887_1924": "0.012090126",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "38",
-      "OutDegree_1887_1924": "42"
+      "OutDegree_1887_1924": "42",
+      "Percentage_IF": "50.60450632"
     },
     {
       "rootsid": "128",
@@ -17753,7 +17775,8 @@
       "NetflowRatio_1887_1924": "-0.19243336",
       "Degree_1887_1924": "31",
       "InDegree_1887_1924": "25",
-      "OutDegree_1887_1924": "28"
+      "OutDegree_1887_1924": "28",
+      "Percentage_IF": "40.3783319"
     },
     {
       "rootsid": "129",
@@ -17806,7 +17829,8 @@
       "NetflowRatio_1887_1924": "-0.1383224",
       "Degree_1887_1924": "45",
       "InDegree_1887_1924": "45",
-      "OutDegree_1887_1924": "43"
+      "OutDegree_1887_1924": "43",
+      "Percentage_IF": "43.08387986"
     },
     {
       "rootsid": "130",
@@ -17859,7 +17883,8 @@
       "NetflowRatio_1887_1924": "0.22110365",
       "Degree_1887_1924": "36",
       "InDegree_1887_1924": "33",
-      "OutDegree_1887_1924": "32"
+      "OutDegree_1887_1924": "32",
+      "Percentage_IF": "61.0551827"
     },
     {
       "rootsid": "131",
@@ -17912,7 +17937,8 @@
       "NetflowRatio_1887_1924": "-0.10554057",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "40",
-      "OutDegree_1887_1924": "41"
+      "OutDegree_1887_1924": "41",
+      "Percentage_IF": "44.72297132"
     },
     {
       "rootsid": "132",
@@ -17965,7 +17991,8 @@
       "NetflowRatio_1887_1924": "0.063453816",
       "Degree_1887_1924": "17",
       "InDegree_1887_1924": "16",
-      "OutDegree_1887_1924": "13"
+      "OutDegree_1887_1924": "13",
+      "Percentage_IF": "53.17269076"
     },
     {
       "rootsid": "133",
@@ -18018,7 +18045,8 @@
       "NetflowRatio_1887_1924": "0.003604903",
       "Degree_1887_1924": "16",
       "InDegree_1887_1924": "11",
-      "OutDegree_1887_1924": "13"
+      "OutDegree_1887_1924": "13",
+      "Percentage_IF": "50.18024513"
     },
     {
       "rootsid": "134",
@@ -18071,7 +18099,8 @@
       "NetflowRatio_1887_1924": "0.16312057",
       "Degree_1887_1924": "36",
       "InDegree_1887_1924": "29",
-      "OutDegree_1887_1924": "31"
+      "OutDegree_1887_1924": "31",
+      "Percentage_IF": "58.15602837"
     },
     {
       "rootsid": "135",
@@ -18124,7 +18153,8 @@
       "NetflowRatio_1887_1924": "0.15358225",
       "Degree_1887_1924": "35",
       "InDegree_1887_1924": "33",
-      "OutDegree_1887_1924": "26"
+      "OutDegree_1887_1924": "26",
+      "Percentage_IF": "57.67911201"
     },
     {
       "rootsid": "136",
@@ -18177,7 +18207,8 @@
       "NetflowRatio_1887_1924": "-0.047990255",
       "Degree_1887_1924": "47",
       "InDegree_1887_1924": "45",
-      "OutDegree_1887_1924": "47"
+      "OutDegree_1887_1924": "47",
+      "Percentage_IF": "47.60048721"
     },
     {
       "rootsid": "137",
@@ -18230,7 +18261,8 @@
       "NetflowRatio_1887_1924": "-0.120237924",
       "Degree_1887_1924": "38",
       "InDegree_1887_1924": "36",
-      "OutDegree_1887_1924": "35"
+      "OutDegree_1887_1924": "35",
+      "Percentage_IF": "43.98810367"
     },
     {
       "rootsid": "138",
@@ -18283,7 +18315,8 @@
       "NetflowRatio_1887_1924": "0.11933054",
       "Degree_1887_1924": "32",
       "InDegree_1887_1924": "29",
-      "OutDegree_1887_1924": "28"
+      "OutDegree_1887_1924": "28",
+      "Percentage_IF": "55.9665272"
     },
     {
       "rootsid": "139",
@@ -18336,7 +18369,8 @@
       "NetflowRatio_1887_1924": "0.004278316",
       "Degree_1887_1924": "46",
       "InDegree_1887_1924": "45",
-      "OutDegree_1887_1924": "44"
+      "OutDegree_1887_1924": "44",
+      "Percentage_IF": "50.21391578"
     },
     {
       "rootsid": "140",
@@ -18389,7 +18423,8 @@
       "NetflowRatio_1887_1924": "0.3007541",
       "Degree_1887_1924": "42",
       "InDegree_1887_1924": "42",
-      "OutDegree_1887_1924": "41"
+      "OutDegree_1887_1924": "41",
+      "Percentage_IF": "65.03770516"
     },
     {
       "rootsid": "141",
@@ -18442,7 +18477,8 @@
       "NetflowRatio_1887_1924": "0.21982124",
       "Degree_1887_1924": "38",
       "InDegree_1887_1924": "36",
-      "OutDegree_1887_1924": "35"
+      "OutDegree_1887_1924": "35",
+      "Percentage_IF": "60.99106234"
     },
     {
       "rootsid": "142",
@@ -18495,7 +18531,8 @@
       "NetflowRatio_1887_1924": "-0.132187",
       "Degree_1887_1924": "46",
       "InDegree_1887_1924": "44",
-      "OutDegree_1887_1924": "46"
+      "OutDegree_1887_1924": "46",
+      "Percentage_IF": "43.39065019"
     },
     {
       "rootsid": "144",
@@ -18548,7 +18585,8 @@
       "NetflowRatio_1887_1924": "0.059496567",
       "Degree_1887_1924": "10",
       "InDegree_1887_1924": "9",
-      "OutDegree_1887_1924": "9"
+      "OutDegree_1887_1924": "9",
+      "Percentage_IF": "52.97482838"
     },
     {
       "rootsid": "145",
@@ -18601,7 +18639,8 @@
       "NetflowRatio_1887_1924": "-0.06828528",
       "Degree_1887_1924": "28",
       "InDegree_1887_1924": "18",
-      "OutDegree_1887_1924": "27"
+      "OutDegree_1887_1924": "27",
+      "Percentage_IF": "46.58573596"
     },
     {
       "rootsid": "146",
@@ -18654,7 +18693,8 @@
       "NetflowRatio_1887_1924": "-0.001510574",
       "Degree_1887_1924": "34",
       "InDegree_1887_1924": "29",
-      "OutDegree_1887_1924": "30"
+      "OutDegree_1887_1924": "30",
+      "Percentage_IF": "49.9244713"
     },
     {
       "rootsid": "147",
@@ -18707,7 +18747,8 @@
       "NetflowRatio_1887_1924": "-0.17214815",
       "Degree_1887_1924": "40",
       "InDegree_1887_1924": "36",
-      "OutDegree_1887_1924": "38"
+      "OutDegree_1887_1924": "38",
+      "Percentage_IF": "41.39259259"
     },
     {
       "rootsid": "148",
@@ -18760,7 +18801,8 @@
       "NetflowRatio_1887_1924": "0.03731861",
       "Degree_1887_1924": "45",
       "InDegree_1887_1924": "45",
-      "OutDegree_1887_1924": "44"
+      "OutDegree_1887_1924": "44",
+      "Percentage_IF": "51.86593055"
     },
     {
       "rootsid": "150",
@@ -18813,7 +18855,8 @@
       "NetflowRatio_1887_1924": "-0.1508688",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "44",
-      "OutDegree_1887_1924": "33"
+      "OutDegree_1887_1924": "33",
+      "Percentage_IF": "42.45655971"
     },
     {
       "rootsid": "151",
@@ -18866,7 +18909,8 @@
       "NetflowRatio_1887_1924": "-0.04734577",
       "Degree_1887_1924": "22",
       "InDegree_1887_1924": "14",
-      "OutDegree_1887_1924": "19"
+      "OutDegree_1887_1924": "19",
+      "Percentage_IF": "47.63271162"
     },
     {
       "rootsid": "152",
@@ -18919,7 +18963,8 @@
       "NetflowRatio_1887_1924": "-0.08249633",
       "Degree_1887_1924": "41",
       "InDegree_1887_1924": "39",
-      "OutDegree_1887_1924": "39"
+      "OutDegree_1887_1924": "39",
+      "Percentage_IF": "45.87518339"
     },
     {
       "rootsid": "153",
@@ -18972,7 +19017,8 @@
       "NetflowRatio_1887_1924": "0.2814274",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "43",
-      "OutDegree_1887_1924": "38"
+      "OutDegree_1887_1924": "38",
+      "Percentage_IF": "64.07137064"
     },
     {
       "rootsid": "154",
@@ -19025,7 +19071,8 @@
       "NetflowRatio_1887_1924": "-0.04562345",
       "Degree_1887_1924": "41",
       "InDegree_1887_1924": "34",
-      "OutDegree_1887_1924": "41"
+      "OutDegree_1887_1924": "41",
+      "Percentage_IF": "47.71882742"
     },
     {
       "rootsid": "155",
@@ -19078,7 +19125,8 @@
       "NetflowRatio_1887_1924": "-0.060487803",
       "Degree_1887_1924": "37",
       "InDegree_1887_1924": "34",
-      "OutDegree_1887_1924": "35"
+      "OutDegree_1887_1924": "35",
+      "Percentage_IF": "46.97560976"
     },
     {
       "rootsid": "156",
@@ -19131,7 +19179,8 @@
       "NetflowRatio_1887_1924": "0.17586207",
       "Degree_1887_1924": "29",
       "InDegree_1887_1924": "28",
-      "OutDegree_1887_1924": "25"
+      "OutDegree_1887_1924": "25",
+      "Percentage_IF": "58.79310345"
     }
   ],
   "pointMapFileSettings": {
@@ -19210,7 +19259,8 @@
       "NetflowRatio_1887_1924": "-0.16194528",
       "Degree_1887_1924": "34",
       "InDegree_1887_1924": "31",
-      "OutDegree_1887_1924": "32"
+      "OutDegree_1887_1924": "32",
+      "Percentage_IF": "41.90273615"
     },
     {
       "rootsid": "104",
@@ -19263,7 +19313,8 @@
       "NetflowRatio_1887_1924": "0.14207947",
       "Degree_1887_1924": "35",
       "InDegree_1887_1924": "33",
-      "OutDegree_1887_1924": "27"
+      "OutDegree_1887_1924": "27",
+      "Percentage_IF": "57.10397387"
     },
     {
       "rootsid": "105",
@@ -19316,7 +19367,8 @@
       "NetflowRatio_1887_1924": "-0.12662154",
       "Degree_1887_1924": "40",
       "InDegree_1887_1924": "36",
-      "OutDegree_1887_1924": "38"
+      "OutDegree_1887_1924": "38",
+      "Percentage_IF": "43.66892273"
     },
     {
       "rootsid": "106",
@@ -19369,7 +19421,8 @@
       "NetflowRatio_1887_1924": "0.41479895",
       "Degree_1887_1924": "48",
       "InDegree_1887_1924": "48",
-      "OutDegree_1887_1924": "45"
+      "OutDegree_1887_1924": "45",
+      "Percentage_IF": "70.73994726"
     },
     {
       "rootsid": "107",
@@ -19422,7 +19475,8 @@
       "NetflowRatio_1887_1924": "0.16541289",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "43",
-      "OutDegree_1887_1924": "39"
+      "OutDegree_1887_1924": "39",
+      "Percentage_IF": "58.27064419"
     },
     {
       "rootsid": "109",
@@ -19475,7 +19529,8 @@
       "NetflowRatio_1887_1924": "0.063747585",
       "Degree_1887_1924": "26",
       "InDegree_1887_1924": "21",
-      "OutDegree_1887_1924": "24"
+      "OutDegree_1887_1924": "24",
+      "Percentage_IF": "53.18737927"
     },
     {
       "rootsid": "110",
@@ -19528,7 +19583,8 @@
       "NetflowRatio_1887_1924": "-0.01775148",
       "Degree_1887_1924": "16",
       "InDegree_1887_1924": "13",
-      "OutDegree_1887_1924": "14"
+      "OutDegree_1887_1924": "14",
+      "Percentage_IF": "49.11242604"
     },
     {
       "rootsid": "111",
@@ -19581,7 +19637,8 @@
       "NetflowRatio_1887_1924": "0.002744739",
       "Degree_1887_1924": "28",
       "InDegree_1887_1924": "23",
-      "OutDegree_1887_1924": "24"
+      "OutDegree_1887_1924": "24",
+      "Percentage_IF": "50.13723696"
     },
     {
       "rootsid": "112",
@@ -19634,7 +19691,8 @@
       "NetflowRatio_1887_1924": "0.24666311",
       "Degree_1887_1924": "40",
       "InDegree_1887_1924": "37",
-      "OutDegree_1887_1924": "34"
+      "OutDegree_1887_1924": "34",
+      "Percentage_IF": "62.33315537"
     },
     {
       "rootsid": "113",
@@ -19687,7 +19745,8 @@
       "NetflowRatio_1887_1924": "-0.15543576",
       "Degree_1887_1924": "37",
       "InDegree_1887_1924": "31",
-      "OutDegree_1887_1924": "35"
+      "OutDegree_1887_1924": "35",
+      "Percentage_IF": "42.22821204"
     },
     {
       "rootsid": "116",
@@ -19740,7 +19799,8 @@
       "NetflowRatio_1887_1924": "0.2541222",
       "Degree_1887_1924": "37",
       "InDegree_1887_1924": "37",
-      "OutDegree_1887_1924": "34"
+      "OutDegree_1887_1924": "34",
+      "Percentage_IF": "62.70611057"
     },
     {
       "rootsid": "117",
@@ -19793,7 +19853,8 @@
       "NetflowRatio_1887_1924": "-0.104495645",
       "Degree_1887_1924": "47",
       "InDegree_1887_1924": "46",
-      "OutDegree_1887_1924": "45"
+      "OutDegree_1887_1924": "45",
+      "Percentage_IF": "44.77521788"
     },
     {
       "rootsid": "118",
@@ -19846,7 +19907,8 @@
       "NetflowRatio_1887_1924": "-0.067566775",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "44",
-      "OutDegree_1887_1924": "43"
+      "OutDegree_1887_1924": "43",
+      "Percentage_IF": "46.62166129"
     },
     {
       "rootsid": "119",
@@ -19899,7 +19961,8 @@
       "NetflowRatio_1887_1924": "-0.14463231",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "42",
-      "OutDegree_1887_1924": "43"
+      "OutDegree_1887_1924": "43",
+      "Percentage_IF": "42.76838415"
     },
     {
       "rootsid": "120",
@@ -19952,7 +20015,8 @@
       "NetflowRatio_1887_1924": "-0.124236256",
       "Degree_1887_1924": "46",
       "InDegree_1887_1924": "43",
-      "OutDegree_1887_1924": "45"
+      "OutDegree_1887_1924": "45",
+      "Percentage_IF": "43.78818737"
     },
     {
       "rootsid": "121",
@@ -20005,7 +20069,8 @@
       "NetflowRatio_1887_1924": "-0.21013093",
       "Degree_1887_1924": "40",
       "InDegree_1887_1924": "36",
-      "OutDegree_1887_1924": "39"
+      "OutDegree_1887_1924": "39",
+      "Percentage_IF": "39.49345353"
     },
     {
       "rootsid": "122",
@@ -20058,7 +20123,8 @@
       "NetflowRatio_1887_1924": "0.03175241",
       "Degree_1887_1924": "38",
       "InDegree_1887_1924": "36",
-      "OutDegree_1887_1924": "35"
+      "OutDegree_1887_1924": "35",
+      "Percentage_IF": "51.58762058"
     },
     {
       "rootsid": "123",
@@ -20111,7 +20177,8 @@
       "NetflowRatio_1887_1924": "-0.072937965",
       "Degree_1887_1924": "26",
       "InDegree_1887_1924": "20",
-      "OutDegree_1887_1924": "22"
+      "OutDegree_1887_1924": "22",
+      "Percentage_IF": "46.35310157"
     },
     {
       "rootsid": "124",
@@ -20164,7 +20231,8 @@
       "NetflowRatio_1887_1924": "0.039338842",
       "Degree_1887_1924": "34",
       "InDegree_1887_1924": "29",
-      "OutDegree_1887_1924": "31"
+      "OutDegree_1887_1924": "31",
+      "Percentage_IF": "51.96694215"
     },
     {
       "rootsid": "125",
@@ -20217,7 +20285,8 @@
       "NetflowRatio_1887_1924": "0.03014602",
       "Degree_1887_1924": "35",
       "InDegree_1887_1924": "31",
-      "OutDegree_1887_1924": "31"
+      "OutDegree_1887_1924": "31",
+      "Percentage_IF": "51.50730099"
     },
     {
       "rootsid": "126",
@@ -20270,7 +20339,8 @@
       "NetflowRatio_1887_1924": "0.05622776",
       "Degree_1887_1924": "45",
       "InDegree_1887_1924": "45",
-      "OutDegree_1887_1924": "42"
+      "OutDegree_1887_1924": "42",
+      "Percentage_IF": "52.8113879"
     },
     {
       "rootsid": "127",
@@ -20323,7 +20393,8 @@
       "NetflowRatio_1887_1924": "0.012090126",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "38",
-      "OutDegree_1887_1924": "42"
+      "OutDegree_1887_1924": "42",
+      "Percentage_IF": "50.60450632"
     },
     {
       "rootsid": "128",
@@ -20376,7 +20447,8 @@
       "NetflowRatio_1887_1924": "-0.19243336",
       "Degree_1887_1924": "31",
       "InDegree_1887_1924": "25",
-      "OutDegree_1887_1924": "28"
+      "OutDegree_1887_1924": "28",
+      "Percentage_IF": "40.3783319"
     },
     {
       "rootsid": "129",
@@ -20429,7 +20501,8 @@
       "NetflowRatio_1887_1924": "-0.1383224",
       "Degree_1887_1924": "45",
       "InDegree_1887_1924": "45",
-      "OutDegree_1887_1924": "43"
+      "OutDegree_1887_1924": "43",
+      "Percentage_IF": "43.08387986"
     },
     {
       "rootsid": "130",
@@ -20482,7 +20555,8 @@
       "NetflowRatio_1887_1924": "0.22110365",
       "Degree_1887_1924": "36",
       "InDegree_1887_1924": "33",
-      "OutDegree_1887_1924": "32"
+      "OutDegree_1887_1924": "32",
+      "Percentage_IF": "61.0551827"
     },
     {
       "rootsid": "131",
@@ -20535,7 +20609,8 @@
       "NetflowRatio_1887_1924": "-0.10554057",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "40",
-      "OutDegree_1887_1924": "41"
+      "OutDegree_1887_1924": "41",
+      "Percentage_IF": "44.72297132"
     },
     {
       "rootsid": "132",
@@ -20588,7 +20663,8 @@
       "NetflowRatio_1887_1924": "0.063453816",
       "Degree_1887_1924": "17",
       "InDegree_1887_1924": "16",
-      "OutDegree_1887_1924": "13"
+      "OutDegree_1887_1924": "13",
+      "Percentage_IF": "53.17269076"
     },
     {
       "rootsid": "133",
@@ -20641,7 +20717,8 @@
       "NetflowRatio_1887_1924": "0.003604903",
       "Degree_1887_1924": "16",
       "InDegree_1887_1924": "11",
-      "OutDegree_1887_1924": "13"
+      "OutDegree_1887_1924": "13",
+      "Percentage_IF": "50.18024513"
     },
     {
       "rootsid": "134",
@@ -20694,7 +20771,8 @@
       "NetflowRatio_1887_1924": "0.16312057",
       "Degree_1887_1924": "36",
       "InDegree_1887_1924": "29",
-      "OutDegree_1887_1924": "31"
+      "OutDegree_1887_1924": "31",
+      "Percentage_IF": "58.15602837"
     },
     {
       "rootsid": "135",
@@ -20747,7 +20825,8 @@
       "NetflowRatio_1887_1924": "0.15358225",
       "Degree_1887_1924": "35",
       "InDegree_1887_1924": "33",
-      "OutDegree_1887_1924": "26"
+      "OutDegree_1887_1924": "26",
+      "Percentage_IF": "57.67911201"
     },
     {
       "rootsid": "136",
@@ -20800,7 +20879,8 @@
       "NetflowRatio_1887_1924": "-0.047990255",
       "Degree_1887_1924": "47",
       "InDegree_1887_1924": "45",
-      "OutDegree_1887_1924": "47"
+      "OutDegree_1887_1924": "47",
+      "Percentage_IF": "47.60048721"
     },
     {
       "rootsid": "137",
@@ -20853,7 +20933,8 @@
       "NetflowRatio_1887_1924": "-0.120237924",
       "Degree_1887_1924": "38",
       "InDegree_1887_1924": "36",
-      "OutDegree_1887_1924": "35"
+      "OutDegree_1887_1924": "35",
+      "Percentage_IF": "43.98810367"
     },
     {
       "rootsid": "138",
@@ -20906,7 +20987,8 @@
       "NetflowRatio_1887_1924": "0.11933054",
       "Degree_1887_1924": "32",
       "InDegree_1887_1924": "29",
-      "OutDegree_1887_1924": "28"
+      "OutDegree_1887_1924": "28",
+      "Percentage_IF": "55.9665272"
     },
     {
       "rootsid": "139",
@@ -20959,7 +21041,8 @@
       "NetflowRatio_1887_1924": "0.004278316",
       "Degree_1887_1924": "46",
       "InDegree_1887_1924": "45",
-      "OutDegree_1887_1924": "44"
+      "OutDegree_1887_1924": "44",
+      "Percentage_IF": "50.21391578"
     },
     {
       "rootsid": "140",
@@ -21012,7 +21095,8 @@
       "NetflowRatio_1887_1924": "0.3007541",
       "Degree_1887_1924": "42",
       "InDegree_1887_1924": "42",
-      "OutDegree_1887_1924": "41"
+      "OutDegree_1887_1924": "41",
+      "Percentage_IF": "65.03770516"
     },
     {
       "rootsid": "141",
@@ -21065,7 +21149,8 @@
       "NetflowRatio_1887_1924": "0.21982124",
       "Degree_1887_1924": "38",
       "InDegree_1887_1924": "36",
-      "OutDegree_1887_1924": "35"
+      "OutDegree_1887_1924": "35",
+      "Percentage_IF": "60.99106234"
     },
     {
       "rootsid": "142",
@@ -21118,7 +21203,8 @@
       "NetflowRatio_1887_1924": "-0.132187",
       "Degree_1887_1924": "46",
       "InDegree_1887_1924": "44",
-      "OutDegree_1887_1924": "46"
+      "OutDegree_1887_1924": "46",
+      "Percentage_IF": "43.39065019"
     },
     {
       "rootsid": "144",
@@ -21171,7 +21257,8 @@
       "NetflowRatio_1887_1924": "0.059496567",
       "Degree_1887_1924": "10",
       "InDegree_1887_1924": "9",
-      "OutDegree_1887_1924": "9"
+      "OutDegree_1887_1924": "9",
+      "Percentage_IF": "52.97482838"
     },
     {
       "rootsid": "145",
@@ -21224,7 +21311,8 @@
       "NetflowRatio_1887_1924": "-0.06828528",
       "Degree_1887_1924": "28",
       "InDegree_1887_1924": "18",
-      "OutDegree_1887_1924": "27"
+      "OutDegree_1887_1924": "27",
+      "Percentage_IF": "46.58573596"
     },
     {
       "rootsid": "146",
@@ -21277,7 +21365,8 @@
       "NetflowRatio_1887_1924": "-0.001510574",
       "Degree_1887_1924": "34",
       "InDegree_1887_1924": "29",
-      "OutDegree_1887_1924": "30"
+      "OutDegree_1887_1924": "30",
+      "Percentage_IF": "49.9244713"
     },
     {
       "rootsid": "147",
@@ -21330,7 +21419,8 @@
       "NetflowRatio_1887_1924": "-0.17214815",
       "Degree_1887_1924": "40",
       "InDegree_1887_1924": "36",
-      "OutDegree_1887_1924": "38"
+      "OutDegree_1887_1924": "38",
+      "Percentage_IF": "41.39259259"
     },
     {
       "rootsid": "148",
@@ -21383,7 +21473,8 @@
       "NetflowRatio_1887_1924": "0.03731861",
       "Degree_1887_1924": "45",
       "InDegree_1887_1924": "45",
-      "OutDegree_1887_1924": "44"
+      "OutDegree_1887_1924": "44",
+      "Percentage_IF": "51.86593055"
     },
     {
       "rootsid": "150",
@@ -21436,7 +21527,8 @@
       "NetflowRatio_1887_1924": "-0.1508688",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "44",
-      "OutDegree_1887_1924": "33"
+      "OutDegree_1887_1924": "33",
+      "Percentage_IF": "42.45655971"
     },
     {
       "rootsid": "151",
@@ -21489,7 +21581,8 @@
       "NetflowRatio_1887_1924": "-0.04734577",
       "Degree_1887_1924": "22",
       "InDegree_1887_1924": "14",
-      "OutDegree_1887_1924": "19"
+      "OutDegree_1887_1924": "19",
+      "Percentage_IF": "47.63271162"
     },
     {
       "rootsid": "152",
@@ -21542,7 +21635,8 @@
       "NetflowRatio_1887_1924": "-0.08249633",
       "Degree_1887_1924": "41",
       "InDegree_1887_1924": "39",
-      "OutDegree_1887_1924": "39"
+      "OutDegree_1887_1924": "39",
+      "Percentage_IF": "45.87518339"
     },
     {
       "rootsid": "153",
@@ -21595,7 +21689,8 @@
       "NetflowRatio_1887_1924": "0.2814274",
       "Degree_1887_1924": "44",
       "InDegree_1887_1924": "43",
-      "OutDegree_1887_1924": "38"
+      "OutDegree_1887_1924": "38",
+      "Percentage_IF": "64.07137064"
     },
     {
       "rootsid": "154",
@@ -21648,7 +21743,8 @@
       "NetflowRatio_1887_1924": "-0.04562345",
       "Degree_1887_1924": "41",
       "InDegree_1887_1924": "34",
-      "OutDegree_1887_1924": "41"
+      "OutDegree_1887_1924": "41",
+      "Percentage_IF": "47.71882742"
     },
     {
       "rootsid": "155",
@@ -21701,7 +21797,8 @@
       "NetflowRatio_1887_1924": "-0.060487803",
       "Degree_1887_1924": "37",
       "InDegree_1887_1924": "34",
-      "OutDegree_1887_1924": "35"
+      "OutDegree_1887_1924": "35",
+      "Percentage_IF": "46.97560976"
     },
     {
       "rootsid": "156",
@@ -21754,7 +21851,8 @@
       "NetflowRatio_1887_1924": "0.17586207",
       "Degree_1887_1924": "29",
       "InDegree_1887_1924": "28",
-      "OutDegree_1887_1924": "25"
+      "OutDegree_1887_1924": "25",
+      "Percentage_IF": "58.79310345"
     }
   ],
   "flowMapFileSettings": {
@@ -21770,7 +21868,7 @@
     "ifFlipColor": false,
     "decimalPlaces": 0,
     "clsNum": 3,
-    "numTopFlows": "100",
+    "numTopFlows": "75",
     "breakInput": "",
     "widthMax": 15,
     "widthMin": 4,
