@@ -116,7 +116,7 @@
 
 	/////////////////////////////////////////////////////////////////////////////////////////////////
 	// TODO: Change the variables below to customize the small multiples interface for your data
-	var polygonJSONFile = 'data/IOWA_COPD.json'
+	var polygonJSONFile = 'data/iowa_copd_arcpro.json'
 	// change the projection if needed *d3.geoAlbers()*
 	var projection = d3.geoAlbers();
 	var widthheightRatio = 0.4;
@@ -147,9 +147,9 @@
   // enter below all variables that should be normalized. If you would like to multiple the variables
 	// with a constant value enter them in multiplyBy array. If there is no need for multiplication,
 	// simply enter 1 for each value in multiplyBy.
-  var attributesToBeNormalized = [att1, att4];
-	var multiplyBy = [10000, 100];
-	var divideBy = ['Population', 'Population'];
+  // var attributesToBeNormalized = [att1, att4];
+	// var multiplyBy = [10000, 100];
+	// var divideBy = ['Population', 'Population'];
 	// if your variables are not raw counts and they are already normalized, comment out above, and
 	//uncomment below:
 	// var attributesToBeNormalized = [];
