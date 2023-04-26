@@ -82,12 +82,12 @@
 			<br />
 			<div class="row">
 				<div class="col-sm-6">
-					<span><p><h3 class='mapTitle'>Lung Cancer</h3>Yearly average number of deaths from lung cancer per 10,000.</p></span>
+					<span><p><h3 class='mapTitle'>Emergency Department Visits</h3>Number of emergency department visits normalized by county population. </p></span>
 					<div id="divMap1"></div>
 					<div id="divHist1"></div>
 				</div>
 				<div class="col-sm-6">
-					<h3 class='mapTitle'>Adult Smokers</h3><p>Percentage of adult population who smoke.</p>
+					<h3 class='mapTitle'>Crude Rate of COPD</h3><p>The crude rate (per 10K) 25 and Older is the rate of emergency department visits with a primary diagnosis code for COPD among persons 25 and older per 10,000 population 25 and older.</p>
 					<div id="divMap2"></div>
 					<div id="divHist2"></div>
 				</div>
@@ -95,12 +95,12 @@
 
 			<div class="row">
 				<div class="col-sm-6">
-					<h3 class='mapTitle'>Healthcare Cost</h3><p>Average cost of healthcare.</p>
+					<h3 class='mapTitle'>Age Adjusted Rate of ED Visits</h3><p>The Age Adj Rate (Per 10K) 25 and Older is the age adjusted rate of emergency department visits with a primary diagnosis code for COPD among persons 25 and older per 10,000 Population 25 and Older. .</p>
 					<div id="divMap3"></div>
 					<div id="divHist3"></div>
 				</div>
 				<div class="col-sm-6">
-					<h3 class='mapTitle'>Senior Citizens</h3><p>Percentage of population above 65 years old.</p>
+					<h3 class='mapTitle'>Iowa Population</h3><p>Distribution of population. Data collected from IPUMS NHGIS.</p>
 					<div id="divMap4"></div>
 					<div id="divHist4"></div>
 				</div>
@@ -116,7 +116,7 @@
 
 	/////////////////////////////////////////////////////////////////////////////////////////////////
 	// TODO: Change the variables below to customize the small multiples interface for your data
-	var polygonJSONFile = 'data/IOWA_COPD.json'
+	var polygonJSONFile = 'data/copddata.geojson'
 	// change the projection if needed *d3.geoAlbers()*
 	var projection = d3.geoAlbers();
 	var widthheightRatio = 0.4;
@@ -130,7 +130,7 @@
 	var idAttribute = 'COUNTY_FIP', nameAttribute = 'COUNTY_NAM';
 
 	// Find the abbreviations of color names from https://colorbrewer2.org/
-	var colors =  colorbrewer.YlGn;
+	var colors =  colorbrewer.YlOrRd;
 
 	// Chart/map attributes (variables) and formats based on the divs defined above
 	// For attribute 1 (the same for all others), see the description of the parameters below.
@@ -139,22 +139,22 @@
 	// att1format: enter the d3.format string to display the variables in the format you like
 	// Check this link on how to specify the desired format:
 	// https://observablehq.com/@d3/d3-format
-	var att1 = 'Edv_Count', att1alias = 'Number of emergency department visits', att1format = '.0f',
+	var att1 = 'Edv_Count', att1alias = 'Percentage of emergency department visits', att1format = '.0f',
 	att2 = 'Crude_Rate', att2alias =  'Rate of emergency department visits', att2format = '.2f',
 	att3 = 'AgeAdjRate', att3alias = 'Age adjusted rate of emergency department visits', att3format = '.2f',
-	att4 = 'Hospital', att4alias = 'Number of inpatient hospital admissions with COPD', att4format = '.0f';
+	att4 = 'Population', att4alias = 'Number of population across the counties', att4format = '.0f';
 
   // enter below all variables that should be normalized. If you would like to multiple the variables
 	// with a constant value enter them in multiplyBy array. If there is no need for multiplication,
 	// simply enter 1 for each value in multiplyBy.
-  // var attributesToBeNormalized = [att1, att4];
-	// var multiplyBy = [10000, 100];
-	// var divideBy = ['Population', 'Population'];
+  var attributesToBeNormalized = [att1];
+	var multiplyBy = [100];
+	var divideBy = ['Population'];
 	// if your variables are not raw counts and they are already normalized, comment out above, and
-	//uncomment below:
-	var attributesToBeNormalized = [];
-	var multiplyBy = [];
-	var divideBy = [];
+	// uncomment below:
+	// var attributesToBeNormalized = [];
+	// var multiplyBy = [];
+	// var divideBy = [];
 
 	//DO NOT CHANGE ANYTHING BELOW THIS POINT UNLESS YOU KNOW WHAT YOU ARE DOING
 	////////////////////////////////////////////////////////////////////////////////////////////////
