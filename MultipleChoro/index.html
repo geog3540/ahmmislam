@@ -53,12 +53,12 @@
 	<div class="container">
 		<div class="content">
 			<div class="row">
-					<h1>Contributions of Young Population (Male and Female) of OH in Median Household Income</h1><p>Respiratory diseases, including Chronic Obstructive Pulmonary Disease (COPD) are among the nation’s most common and costly chronic conditions. COPD refers to a group of diseases that cause airflow blockage and breathing-related problems. They can affect the airways and lungs and can cause symptoms such as wheezing, shortness of breath, coughing, fatigue or inability to exercise, and tightness in the chest. The most common conditions include emphysema and chronic bronchitis, and some cases of asthma.</p>
+					<h1>Contributions of Young Population (Male and Female) of OH in Median Household Income</h1><p>This map shows the relationship between the rate of bachelors degree among the young population in Ohio counties and median household income. It also provides a comparative scenario between male and feamle population with the variables.</p>
 			</div>
 			<hr />
 			<div class="row">
 				<div class="col-sm-4">
-					<p>Data from <a href="https://tracking.idph.iowa.gov/Health/COPD/COPD-ED-Visits-Data">iowa.gov</a>, maps by A H M Mainul Islam.</p>
+					<p>Data from <a href="https://www.nhgis.org/">NHGIS IPUMS</a>, maps by A H M Mainul Islam.</p>
 				</div>
 				<div class='col-sm-8 mapButtons'>
 					<span class="pull-right">
@@ -82,12 +82,12 @@
 			<br />
 			<div class="row">
 				<div class="col-sm-6">
-					<span><p><h3 class='mapTitle'>Percentage of Male Population in OH (20-34) years old</h3>Number of emergency department visits normalized by county population. </p></span>
+					<span><p><h3 class='mapTitle'>Male Population</h3>Percentage of male population in Ohio counties aged 20 - 34 years. </p></span>
 					<div id="divMap1"></div>
 					<div id="divHist1"></div>
 				</div>
 				<div class="col-sm-6">
-					<h3 class='mapTitle'>Percentage of Male Population in OH (20-34) years old</h3><p>The crude rate (per 10K) 25 and Older is the rate of emergency department visits with a primary diagnosis code for COPD among persons 25 and older per 10,000 population 25 and older.</p>
+					<h3 class='mapTitle'>Female Population</h3><p>Percentage of Female population in Ohio counties aged 20 - 34 years.</p>
 					<div id="divMap2"></div>
 					<div id="divHist2"></div>
 				</div>
@@ -95,12 +95,12 @@
 
 			<div class="row">
 				<div class="col-sm-6">
-					<h3 class='mapTitle'>Percentage of Bachelors Degree Holders</h3><p>The Age Adj Rate (Per 10K) 25 and Older is the age adjusted rate of emergency department visits with a primary diagnosis code for COPD among persons 25 and older per 10,000 Population 25 and Older. .</p>
+					<h3 class='mapTitle'>Bachelors Degree Holders</h3><p>Percentage of bachelors degree holder population in Ohio counties.</p>
 					<div id="divMap3"></div>
 					<div id="divHist3"></div>
 				</div>
 				<div class="col-sm-6">
-					<h3 class='mapTitle'>Median Household Income</h3><p>Distribution of population. Data collected from IPUMS NHGIS.</p>
+					<h3 class='mapTitle'>Median Household Income</h3><p>Median household income of Ohio population. </p>
 					<div id="divMap4"></div>
 					<div id="divHist4"></div>
 				</div>
@@ -124,13 +124,13 @@
 	// 0 is the start, whereas 1 i the end of each panel.
 	// If you want to put the legend on the left, then use 0.
 	// legendY = 0.5 puts the legend in the middle of the Y Axis.
-	var legendX = 0.84, legendY = 0.5
+	var legendX = 0.80, legendY = 0.5
 
 	// id attribute and the name attribute to be used in the tooltip
 	var idAttribute = 'COUNTYFP', nameAttribute = 'NAME';
 
 	// Find the abbreviations of color names from https://colorbrewer2.org/
-	var colors =  colorbrewer.YlOrRd;
+	var colors =  colorbrewer.YlGnBu;
 
 	// Chart/map attributes (variables) and formats based on the divs defined above
 	// For attribute 1 (the same for all others), see the description of the parameters below.
